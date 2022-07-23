@@ -8,7 +8,6 @@ Foi solicitado para o aluno criar um site, com o tema aberto e escolhido pelo pr
 Dividido em grupos, foi pedido também para criar uma empresa fictícia e o site teria todas as informações do ramo em que a empresa trabalha.
 
 ## Tecnologias Utilizadas
-- - -
 
 ### HTML
 
