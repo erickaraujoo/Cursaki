@@ -1,17 +1,11 @@
 # CURSAKI - Site
-- - -
 
-    O site foi criado para mostrar tudo o que a empresa (Cursaki) fictícia criada possui, e para obtenção de nota na disciplina de Inglês
-    realizado na escola técnica profissionalizante SENAI Prof. "Vicente Amato".
+O site foi criado para mostrar tudo o que a empresa (Cursaki) fictícia criada possui, e para obtenção de nota na disciplina de Inglês realizado na escola técnica profissionalizante SENAI Prof. "Vicente Amato".
     
 ## Propostas e Requisitos
-- - -
 
-    Foi solicitado para o aluno criar um site, com o tema aberto e escolhido pelo próprio aluno, onde deveria ser de fácil manuseio, como a
-    exploração do site por meio de navegadores, uso de imagens para agradar o usuário, entre outras propostas.
-    Dividido em grupos, foi pedido também para criar uma empresa fictícia e o site teria todas as informações do ramo em que a empresa
-    trabalha.
-    
+Foi solicitado para o aluno criar um site, com o tema aberto e escolhido pelo próprio aluno, onde deveria ser de fácil manuseio, como a exploração do site por meio de navegadores, uso de imagens para agradar o usuário, entre outras propostas.
+Dividido em grupos, foi pedido também para criar uma empresa fictícia e o site teria todas as informações do ramo em que a empresa trabalha.
 
 ## Tecnologias Utilizadas
 - - -
@@ -31,4 +25,3 @@
 ### JavaScript
 
 - Para complementar as funções secundárias do jQuery, foi utilizado o JavaScript.
-
